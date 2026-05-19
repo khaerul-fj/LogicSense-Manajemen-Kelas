@@ -1,12 +1,18 @@
+<p align="right">
+  <code>⚡ LOGICSENSE INTERNAL REPO // SECURED ACCESS</code>
+</p>
+
 # LogicSense
 
-LogicSense adalah Sistem Monitoring Progres Belajar Siswa Berbasis Web yang dirancang khusus untuk mendigitalisasi, memantau, dan mendiagnosis capaian kompetensi siswa secara *real-time*. Sistem ini dilengkapi dengan modul **Sistem Pakar** untuk menganalisis rata-rata kognitif kelas guna memberikan rekomendasi strategi pengajaran yang tepat.
+> **[WATERMARK] OPERATIONAL SYSTEM LEDGER** > *This repository, its core logic structures, and expert system rules are developed by **Khaerul Fajri** (Informatics Department, Universitas Bhayangkara Jakarta Raya). Unauthorized duplication for academic submission is strictly monitored.*
 
 ---
 
+LogicSense adalah Sistem Monitoring Progres Belajar Siswa Berbasis Web yang dirancang khusus untuk mendigitalisasi, memantau, dan mendiagnosis capaian kompetensi siswa secara *real-time*. Sistem ini dilengkapi dengan modul **Sistem Pakar** untuk menganalisis rata-rata kognitif kelas guna memberikan rekomendasi strategi pengajaran yang tepat.
+
 ## 🚀 Fitur Utama
 - **Direktori & CRUD Master**: Pengelolaan data sekolah tempat mengajar beserta roster siswa terintegrasi.
-- **Timeline Jadwal otomatis**: Pengurutan jadwal mengajar berdasarkan hari aktif secara berurutan.
+- **Timeline Jadwal Otomatis**: Pengurutan jadwal mengajar berdasarkan hari aktif secara berurutan.
 - **Omset Tracker Engine**: Kalkulator finansial otomatis berbasis log kehadiran dan rate kontrak kerja sama.
 - **Sistem Pakar Forward Chaining**: Modul AI berbasis aturan untuk mendiagnosis rata-rata kognitif kelas secara berkala.
 - **Automated Ledger Export**: Ekspor transkrip capaian kompetensi siswa dalam format dokumen PDF formal.
