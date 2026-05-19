@@ -1,5 +1,5 @@
 <p align="right">
-  <code>⚡ LOGICSENSE INTERNAL REPO // SECURED ACCESS</code>
+  <code>⚡ LOGICSENSE INTERNAL REPO // SECURED ACCESS // KHAERUL FAJRI </code>
 </p>
 
 # LogicSense
